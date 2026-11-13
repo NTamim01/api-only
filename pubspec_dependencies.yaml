@@ -1,0 +1,3 @@
+# Add under `dependencies:` in pubspec.yaml, then run `flutter pub get`
+dependencies:
+  dio: ^5.7.0

@@ -1,0 +1,10 @@
+name: api_only
+description: A command-line Dart application to test the DummyJSON API integration.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  dio: ^5.7.0
